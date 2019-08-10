@@ -1,0 +1,18 @@
+git commands
+
+git --version --> to check version
+git init --> initilized empty repository
+git add <--filename--> to add into the staging area
+git status --> will which file needs to commit
+git commit -m "and the message here"
+
+------- how to deal with remote repository commands ----
+	GitHub Repository Link
+git remote add origin "https://github.com/guravdm/devops-git-example.git"
+
+to pull in the local repository use below command
+
+git pull origin master
+git push origin master
+
+
